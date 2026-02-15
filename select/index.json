@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "踊らせないで",
+  "base_artist": "eill",
+  "createdAt": "2026-02-15T11:18:16.607739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊らせないで",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/01_踊らせないで_eill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊らせないで",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/02_踊らせないで_eill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊らせないで - Odorasenaide",
+      "artist": "eill",
+      "has_synced": true,
+      "path": "select/03_踊らせないで_-_Odorasenaide_eill.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊らせないで",
+      "artist": "eill",
+      "has_synced": false,
+      "path": "select/pl_01_踊らせないで_eill.txt"
+    }
+  ]
+}
